@@ -2,7 +2,6 @@
 
 let edad = parseInt(prompt("Ingrese su edad por favor."));
 
-
 if (!isNaN(edad)) {  
   if (edad >= 18) {
     alert("Felicidades. Ya tienes edad para conducir.");
